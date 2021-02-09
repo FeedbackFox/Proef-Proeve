@@ -1,0 +1,11 @@
+Welk platform wilt u dat we gebruiken? bv. laravel / wordpress / etc
+
+Wat is de doelgroep?
+
+Wat zijn de benodigdheden van dit project?
+
+Contact met doelgroep ter hulp van onderzoek?
+
+Mogelijkheid uw onderzoek aan ons te sturen zodat we efficiënt kunnen werken
+
+Mogelijke no-no's?
