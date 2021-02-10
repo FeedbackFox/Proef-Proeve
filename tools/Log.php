@@ -10,7 +10,7 @@
             //Filename: The file to log it in. If no filename is provided, it will automatically log in robin.log.
         static function norm($source, $msg, $filename = 'robin')
         {
-                file_put_contents($filename . '.log', '[' . $source . ']: ' . $msg);
+                file_put_contents($filename . '.log', '[' . $source . ']: ' . $msg . "\n", FILE_APPEND);
         }
     }
 
