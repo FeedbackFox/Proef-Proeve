@@ -16,7 +16,7 @@
         
         static function alert($source, $msg, $filename = 'robin')
         {
-                file_put_contents($_SERVER['DOCUMENT_ROOT'] . '/' . $filename . '.log', '[ALERT!][ALERT!][' . $source . ']: ' . $msg . "\n", FILE_APPEND);
+                file_put_contents($_SERVER['DOCUMENT_ROOT'] . '/' . $filename . '.log', '[ALERT!][' . $source . ']: ' . $msg . "\n", FILE_APPEND);
         }
     }
 
