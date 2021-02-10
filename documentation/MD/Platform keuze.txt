@@ -1,0 +1,18 @@
+Platform keuze?
+
+Ervaring Emily: Laravel, Wordpress, JS, HTML, PHP, CSS
+Ervaring Bjorn: Laravel, Wordpress, MVC-structuur,  HTML, PHP, CSS
+
+
+Platform: Eigen platform
+
+App: Android + ?
+
+
+JS: Emily
+HTML: Bjorn
+PHP: Both
+
+
+Key stored on local device to log in automatically to increase ease of use
+
