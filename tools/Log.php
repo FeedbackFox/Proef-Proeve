@@ -8,16 +8,9 @@
             //Source: The source of the message.
             //msg: The message to send.
             //Filename: The file to log it in. If no filename is provided, it will automatically log in robin.log.
-        static function norm($source, $msg, $filename = 0)
+        static function norm($source, $msg, $filename = 'robin')
         {
-            if($filename == 0)
-            {
-                file_put_contents('robin.log', '[' . $source . ']: ' . $msg);
-            }
-            else 
-            {
                 file_put_contents($filename . '.log', '[' . $source . ']: ' . $msg);
-            }
         }
     }
 
