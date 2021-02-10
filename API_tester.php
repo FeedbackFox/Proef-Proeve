@@ -17,6 +17,6 @@ $options = [
 $context = stream_context_create($options);
 $result = file_get_contents($url, false, $context);
 
-Log::norm('API_Tester', 'Request sent');
+Log::norm('API_Tester', 'Request sent', 'API_tester');
 
 ?>

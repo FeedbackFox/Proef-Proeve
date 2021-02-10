@@ -11,7 +11,7 @@
             //You can specify a path inside the server by adding one in the $filename, starting from the server root.
         static function norm($source, $msg, $filename = 'robin')
         {
-                file_put_contents($_SERVER['DOCUMENT_ROOT'] . $filename . '.log', '[' . $source . ']: ' . $msg . "\n", FILE_APPEND);
+                file_put_contents($_SERVER['DOCUMENT_ROOT'] . '/' . $filename . '.log', '[' . $source . ']: ' . $msg . "\n", FILE_APPEND);
         }
     }
 
