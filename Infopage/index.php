@@ -66,7 +66,7 @@
 
         <div class="information-block white">
             <div class="information-subblock image">
-                <img src="https://via.placeholder.com/500" class="img-responsive" alt="Picture for information">
+                <img src="https://via.placeholder.com/750x500" class="img-responsive" alt="Picture for information">
             </div>
             <div class="information-subblock text">
                 <h4>What is Robin Service?</h4>
@@ -82,12 +82,12 @@
                 <button class="button information">Read more</button>
             </div>
             <div class="information-subblock image">
-                <img src="https://via.placeholder.com/500" class="img-responsive" alt="Picture for information">
+                <img src="https://via.placeholder.com/750x500" class="img-responsive" alt="Picture for information">
             </div>
         </div>
         <div class="information-block white">
             <div class="information-subblock image">
-                <img src="https://via.placeholder.com/500" class="img-responsive" alt="Picture for information">
+                <img src="https://via.placeholder.com/750x500" class="img-responsive" alt="Picture for information">
             </div>
             <div class="information-subblock text">
                 <h4>Mobile app</h4>
@@ -240,7 +240,7 @@
 
     <div class="question">
         <h2>Questions? Ask Robin!</h2>
-        <img src="https://via.placeholder.com/150" alt="" class="img-responsive aks-robin">
+        <a href="#"><img src="https://via.placeholder.com/150" alt="" class="img-responsive aks-robin"></a>
     </div>
 
         <footer>
