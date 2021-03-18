@@ -8,10 +8,12 @@ if (hash_equals($_SESSION['token'], $_POST['token'])) {
 } else {
     echo "This didn't work";
 }
-Log::norm('Read', $_COOKIE['Name'], 'login');
-Log::norm('Read', $_COOKIE['Password'], 'Login');
+// Log::norm('Read', $_SESSION['Name'], 'login');
+// Log::norm('Read', $_SESSION['Password'], 'Login');
+// setcookie('Name', $_SESSION['name'], time()+ 60, '/');
+// setcookie('Password', $_SESSION['password'], time()+ 60, '/');
 ?>
 
-
-<h1><?php echo $_COOKIE['Name'] ?></h1>
-<h1><?php echo $_COOKIE['Password'] ?></h1>
+<!-- 
+<h1><?php echo $_SESSION['Name'] ?></h1>
+<h1><?php echo $_SESSION['Password'] ?></h1> -->

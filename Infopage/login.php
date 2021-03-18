@@ -17,10 +17,10 @@ if (empty($_SESSION['token'])) {
 $token = $_SESSION['token'];
 
 // Sets the Cookies of name and password.
-setcookie('Name', $_SESSION['name']);
-setcookie('Password', $_SESSION['password']);
+
 ?>
 
+<link rel="stylesheet" href="style.css">
 <form action="read.php" method="POST">
     <label for="name"> <input type="text" name="name" placeholder="username"></label>
     <label for="password"><input type="password" name="password" placeholder="password"></label>
