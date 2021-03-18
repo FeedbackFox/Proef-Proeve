@@ -118,7 +118,7 @@ div.profiel img {
 nav {
     width: 100%;
     background: rgb(177, 29, 196);
-    background: linear-gradient(90deg, rgba(177, 29, 196, 1) 20%, rgba(0, 129, 255, 1) 100%);
+    background: linear-gradient(120deg, rgba(173, 29, 235, 1) 20%, rgba(110, 114, 252, 1) 100%);
     overflow-x: hidden;
 }
 
@@ -189,7 +189,7 @@ div.header-footer {
     text-align: center;
     color: #fff;
     background: rgb(177, 29, 196);
-    background: linear-gradient(90deg, rgba(177, 29, 196, 1) 20%, rgba(0, 129, 255, 1) 100%);
+    background: linear-gradient(120deg, rgba(173, 29, 235, 1) 20%, rgba(110, 114, 252, 1) 100%);
     padding: 25px 15px;
     border-radius: 0 0 20px 20px;
 }
@@ -213,7 +213,7 @@ button.button {
 
 button.button:hover {
     background: rgb(177, 29, 196);
-    background: linear-gradient(90deg, rgba(177, 29, 196, 1) 20%, rgba(0, 129, 255, 1) 100%);
+    background: linear-gradient(120deg, rgba(173, 29, 235, 1) 20%, rgba(110, 114, 252, 1) 100%);
     color: #fff;
 }
 
@@ -312,7 +312,7 @@ div.flavour-image img {
     bottom: -5px;
     left: -5px;
     right: -5px;
-    background: linear-gradient(to right, #b11dc4, #0081ff);
+    background: linear-gradient(to right, #ad1deb, #6e72fc);
     content: '';
     z-index: -1;
     border-radius: 16px 0px 0px 16px;
@@ -323,7 +323,7 @@ div.flavour-image img {
     border: 1px solid transparent;
     border-radius: 0px 15px 15px 0px;
     border-right: none;
-    background: linear-gradient(to right, #b11dc4, #0081ff);
+    background: linear-gradient(to right, #ad1deb, #6e72fc);
     background-clip: padding-box;
     color: #fff;
     padding: 35px 0 35px 125px;
@@ -337,7 +337,7 @@ div.flavour-image img {
     bottom: -5px;
     left: -5px;
     right: -5px;
-    background: linear-gradient(to right, #b11dc4, #0081ff);
+    background: linear-gradient(to right, #ad1deb, #6e72fc);
     content: '';
     z-index: -1;
     border-radius: 0px 16px 16px 0px;
@@ -349,9 +349,9 @@ div.flavour-image img {
     font-size: 1rem;
     padding: .5rem 4rem;
     color: #000;
-    box-shadow: 0 0 6px 0 #b11dc4;
+    box-shadow: 0 0 6px 0 #ad1deb;
     border: solid 3px transparent;
-    background-image: linear-gradient(to right, #b11dc4, #0081ff), linear-gradient(101deg, #b11dc4, #0081ff);
+    background-image: linear-gradient(to right, #ad1deb, #6e72fc), linear-gradient(101deg, #ad1deb, #6e72fc);
     background-origin: border-box;
     background-clip: content-box, border-box;
     box-shadow: 2px 1000px 1px #fff inset;
@@ -365,7 +365,7 @@ div.flavour-image img {
     font-size: 1rem;
     padding: .5rem 4rem;
     color: #000;
-    box-shadow: 0 0 6px 0 #b11dc4;
+    box-shadow: 0 0 6px 0 #ad1deb;
     border: solid 3px transparent;
     background-color: #fff;
     box-shadow: 2px 1000px 1px #fff inset;
@@ -377,9 +377,9 @@ div.flavour-image img {
 .information-block.white .information-subblock.text button.button.information:hover {
     transition: .5s;
     background: rgb(177, 29, 196);
-    background: linear-gradient(90deg, rgba(177, 29, 196, 1) 20%, rgba(0, 129, 255, 1) 100%);
+    background: linear-gradient(120deg, rgba(173, 29, 235, 1) 20%, rgba(110, 114, 252, 1) 100%);
     border-radius: 20px;
-    box-shadow: 0 0 2px 0 #0081ff;
+    box-shadow: 0 0 2px 0 #6e72fc;
     border: solid 3px transparent;
     color: #fff;
 }
@@ -408,7 +408,7 @@ div.flavour-image img {
 
 .plan-cards-container {
     background: rgb(177, 29, 196);
-    background: linear-gradient(90deg, rgba(177, 29, 196, 1) 20%, rgba(0, 129, 255, 1) 100%);
+    background: linear-gradient(120deg, rgba(173, 29, 235, 1) 20%, rgba(110, 114, 252, 1) 100%);
     max-width: 300px;
     max-height: 340px;
     display: inline-block;
@@ -483,7 +483,7 @@ div.flavour-image img {
     display: flex;
     width: 80%;
     background: rgb(177, 29, 196);
-    background: linear-gradient(90deg, rgba(177, 29, 196, 1) 20%, rgba(0, 129, 255, 1) 100%);
+    background: linear-gradient(120deg, rgba(173, 29, 235, 1) 20%, rgba(110, 114, 252, 1) 100%);
     color: #fff;
     margin: 120px auto;
     border-radius: 50px;
@@ -535,7 +535,7 @@ div.flavour-image img {
     bottom: -5px;
     left: -5px;
     right: -5px;
-    background: linear-gradient(to right, #b11dc4, #0081ff);
+    background: linear-gradient(to right, #ad1deb, #6e72fc);
     content: '';
     z-index: -1;
     border-radius: 16px 16px 16px 16px;
@@ -633,8 +633,8 @@ div.flavour-image img {
 .footer-container {
     display: flex;
     color: #fff;
-    background: rgb(177, 29, 196);
-    background: linear-gradient(90deg, rgba(177, 29, 196, 1) 20%, rgba(0, 129, 255, 1) 100%);
+    background: rgba(173, 29, 235, 1);
+    background: linear-gradient(120deg, rgba(173, 29, 235, 1) 20%, rgba(110, 114, 252, 1) 100%);
 }
 
 .footer-container-info {
