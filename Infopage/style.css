@@ -150,7 +150,7 @@ nav li a.nav-list:hover {
 
 ul {
     padding: 0;
-    margin: 0 0 0 1050px;
+    margin: 0 0 0 1320px;
     list-style: none;
 }
 
@@ -693,7 +693,7 @@ div.flavour-image img {
 
 .footer-container-info.taal {
     max-width: 30%;
-    margin-left: 50px;
+    margin-left: 150px;
 }
 
 .footer-container-info.taal h2 {

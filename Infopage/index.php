@@ -28,7 +28,7 @@
                 <ul>
                     <li><a href="index.php" class="nav-list">Home</a></li>
                     <li><a href="info.php" class="nav-list">Who, how, what robin</a></li>
-                    <li><a href="profiel.php" class="nav-list-image"><img src="https://via.placeholder.com/50x50" class="img-responsive" alt="profile"></a></li>
+                    <li><a href="login.php" class="nav-list-image"><img src="https://via.placeholder.com/50x50" class="img-responsive" alt="profile"></a></li>
                 </ul>
             </nav>
             <!-- <div class="profiel">
